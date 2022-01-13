@@ -1,0 +1,28 @@
+_repo: The-Sun-Also-Rises_67138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemingway, Ernest
+    birthdate: 1899
+    deathdate: 1961
+    gutenberg_agent_id: '50533'
+    url: http://www.gutenberg.org/2009/agents/50533
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Hemingway
+description: ''
+gutenberg_issued: '2022-01-10'
+identifiers:
+  gutenberg: '67138'
+language: en
+pgterms:marc905: 20220108185505hemingway
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: 'This ebook was produced by: Marcia Brooks, Al Haines, Paulina Chin
+  & the online Distributed Proofreaders Canada team at http://www.pgdpcanada.net'
+publication_note: United States :Charles Scribner's Sons,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sun Also Rises
+url: http://www.gutenberg.org/ebooks/67138
